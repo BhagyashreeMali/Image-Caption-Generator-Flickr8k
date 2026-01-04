@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files
+models/
+*.pth
+
+# Dataset (too large for GitHub)
+data/raw/
+data/processed/
+
+# macOS system files
+.DS_Store
+
+# Logs
+*.log
