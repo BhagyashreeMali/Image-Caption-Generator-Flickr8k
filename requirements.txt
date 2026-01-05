@@ -1,0 +1,13 @@
+numpy
+torch>=1.13
+torchvision
+tqdm
+pillow
+nltk
+scikit-learn
+matplotlib
+fastapi
+uvicorn
+streamlit
+spacy
+opencv-python
