@@ -163,3 +163,12 @@ AI & ML Engineering Student
 ## 📜 License
 
 This project is for **academic and learning purposes**.
+## 📧 Contact
+
+**Bhagyashree Mali**
+
+- 📧 Email: **BHAGYASHREEMALI1624@gmail.com**  
+- 🔗 LinkedIn: [www.linkedin.com/in/bhagyashree-mali]  
+- 🧠 GitHub: https://github.com/bhagyashreemali
+- 📍 Location: Pune, Maharashtra, India
+
