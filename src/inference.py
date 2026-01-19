@@ -42,4 +42,4 @@ def generate_caption(max_len=20):
 if __name__ == "__main__":
     caption = generate_caption()
     print("📝 Generated Caption:")
-    print(caption)
+    print(caption) 
