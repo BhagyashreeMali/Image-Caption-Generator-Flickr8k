@@ -19,8 +19,8 @@ This project implements a complete machine learning pipeline:
 The current implementation is a **baseline caption generator**.  
 The UI supports image upload, but captions are generated using learned language patterns (CNN-based image feature extraction can be added as a future enhancement).
 
----
-
+----
+ 
 ## 🧠 Architecture
 
 ```
